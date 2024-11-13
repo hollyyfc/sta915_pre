@@ -4,10 +4,10 @@ project:
 
 format:
   revealjs:         
-    theme: moon
+    theme: serif
     footer: "Duke University - Department of Statistical Science"
     logo: images/logo_hollyc.svg
-    transition: slide
+    transition: convex
 
 
 

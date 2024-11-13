@@ -1,6 +1,6 @@
 ---
-title: "Digital Twins for Health: a Scoping Review"
-subtitle: ""
+title: "Digital Twins for Health"
+subtitle: "A Scoping Review"
 author: "Holly Cui"
 format: revealjs
 editor: visual
