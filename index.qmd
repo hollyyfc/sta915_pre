@@ -6,7 +6,114 @@ format: revealjs
 editor: visual
 ---
 
-# Slide 1 
-...
-## 1.1
-...
+# Intro to Digital Twins
+
+## Digital Twins (DTs)
+
+- **Definition**: Simulation-based virtual models to represent objects spanning across development and progression lifecycles to help in the overall decision making. 
+- **First Adoption**: NASA (1960s) - simulate Apollo 13 spacecraft and debug in real-time 🚀
+
+::: {.fragment .fade-in}
+![](images/meme1.jpeg){.absolute top=400 left=100 width="250" height="194"}
+:::
+
+::: {.fragment .fade-in}
+![](images/meme2.jpeg){.absolute top=400 left=400 width="250" height="194"}
+::: 
+
+::: {.fragment .fade-in}
+![](images/meme3.jpeg){.absolute top=400 left=700 width="250" height="194"}
+:::
+
+## More Than a Dummy Replica ...
+
+::: {style="font-size: 70%;"}
+> _A sophisticated representation designed to faithfully **mirror** the real-world system in real-time, **analyze** its behavior, and provide **predictive** insights using advanced simulation, machine learning and reasoning to help decision making_
+:::
+
+<div style="margin-top: 40px;"></div>
+
+::: {style="font-size: 80%;"}
+**Types of DTs**: 
+
+- Static Twin (only static properties)
+- Functional Twin (*mirror*; dynamic behavior)
+- Self-Adaptive Twin (*shadow*; acquire real-time data to update the model)
+- Intelligent Twin (AI-powered with autonomy)
+:::
+
+## Digital Twins for Healthcare (DT4H)
+
+<div style="margin-top: 40px;"></div>
+
+::: columns
+::: {.column width="40%"}
+::: {style="font-size: 70%;"}
+A virtual representation of a person which allows dynamic simulation of potential treatment strategy, monitoring and prediction of health trajectory, and early intervention and prevention, based on multi-scale modeling of multi-modal data such as clinical, genetic, molecular, environmental, and social factors etc.
+:::
+:::
+
+::: {.column width="60%"}
+![](images/fig1.png)
+:::
+:::
+
+## More DT4H
+
+<div style="margin-top: 50px;"></div>
+
+::: columns
+::: {.column width="60%"}
+::: {style="font-size: 90%;"}
+- **Main Components**: a physical entity, a virtual replica, and a connection for bi-directional real-time impact
+- **Qualifications**: individualized, interconnected, interactive, informative, and impactful (5Is)
+- **Recent Trend**: integration with AI/ML modeling based on different objectives 
+:::
+:::
+
+::: {.column width="40%"}
+![](images/fig2.png){width="75%"}
+![](images/fig3.png){width="75%"}
+
+:::
+:::
+
+# Applications of DT4H
+
+## Overview
+
+::: {style="font-size: 60%;"}
+Out of 220 papers of DT4H, 85 were selected as representatives and 8 categories were summarized:
+:::
+
+![](images/fig4.png){fig-align="center" width="60%"}
+
+## Examples
+
+
+::: columns
+::: {.column width="20%"}
+
+::: {.r-vstack}
+::: {style="background: #c2d7eb; width: 150px; height: 150px; margin: 10px; border-radius: 50%; display: flex; align-items: center; justify-content: center; text-align: center; color: black; font-size: 0.5em;"}
+Surgical Planning
+:::
+
+::: {style="background: #f1ccb0; width: 150px; height: 150px; margin: 10px; border-radius: 50%; display: flex; align-items: center; justify-content: center; text-align: center; color: black; font-size: 0.5em;"}
+Clinical Trials
+:::
+
+::: {style="background: #c49bf8; width: 150px; height: 150px; margin: 10px; border-radius: 50%; display: flex; align-items: center; justify-content: center; text-align: center; color: black; font-size: 0.5em;"}
+Hospital Management
+:::
+:::
+
+:::
+
+::: {.column width="80%"}
+some texts ...
+:::
+
+:::
+
+
