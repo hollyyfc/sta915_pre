@@ -11,7 +11,7 @@
     "href": "index.html#more-than-a-dummy-replica",
     "title": "Digital Twins for Health",
     "section": "More Than a Dummy Replica …",
-    "text": "More Than a Dummy Replica …\n\n\nA sophisticated representation designed to faithfully mirror the real-world system in real-time, analyze its behavior, and provide predictive insights using advanced simulation, machine learning and reasoning to help decision making\n\n\n\n\n\n\nTypes of DTs:\n\nStatic Twin (only static properties)\nFunctional Twin (mirror; dynamic behavior)\nSelf-Adaptive Twin (shadow; acquire real-time data to update the model)\nIntelligent Twin (AI-powered with autonomy)"
+    "text": "More Than a Dummy Replica …\n\n\n\n\n\nA sophisticated representation designed to faithfully mirror the real-world system in real-time, analyze its behavior, and provide predictive insights using advanced simulation, machine learning and reasoning to help decision making\n\n\n\n\n\n\nTypes of DTs:\n\nStatic Twin (only static properties)\nFunctional Twin (mirror; dynamic behavior)\nSelf-Adaptive Twin (shadow; acquire real-time data to update the model)\nIntelligent Twin (AI-powered with autonomy)"
   },
   {
     "objectID": "index.html#digital-twins-for-healthcare-dt4h",
@@ -39,6 +39,27 @@
     "href": "index.html#examples",
     "title": "Digital Twins for Health",
     "section": "Examples",
-    "text": "Examples\n\n\n\n\nSurgical Planning\n\n\nClinical Trials\n\n\nHospital Management\n\n\n\nsome texts …\n\n\n\n\n\nDuke University - Department of Statistical Science"
+    "text": "Examples\n\n\n\n\n\n\n\nSurgical Planning\n\n\nClinical Trials\n\n\nHospital Management\n\n\n\n\nThe DT of anatomical structures can help surgeons simulate surgical approaches before the actual procedure to avoid adverse or fatal outcomes. For example, the DT of heart models (HeartNavigator) to assist with the TAVR implantation procedure.\n\n\n\nDTs can incorporated into the in-silico trials (IST: a digital clinical trial strategy through simulation and modeling) with simulated control and treatment arms and predicted outcomes of individual patients’, enhancing the traditional clinical trials with better efficiency in patient recruitment and drug protocols.\n\n\n\nDTs can be adopted to build a digital representation of healthcare data (electronic medical data), hospital environments, physical hospitals, human physiology, operational staff, and lab results, for various goals like workflow optimization and product design."
+  },
+  {
+    "objectID": "index.html#more-examples",
+    "href": "index.html#more-examples",
+    "title": "Digital Twins for Health",
+    "section": "More Examples",
+    "text": "More Examples"
+  },
+  {
+    "objectID": "index.html#challenges",
+    "href": "index.html#challenges",
+    "title": "Digital Twins for Health",
+    "section": "Challenges",
+    "text": "Challenges\n\n\n\n\nData\n\n\nModeling & Computing Infrastructure\n\n\nBusiness Models\n\n\n\n\n\n\nAcquisition & Integration: difficult to obtain accurate, real-time synchronization of data of various formats and systems; lack of standards and inter-operability in healthcare.\nPrivacy & Security: accessing sensitive personal health information while safeguarding patient confidentiality for compliance is challenging.\nQuality & Accuracy: access to comprehensive and high-quality health data is often constrained, which is usually scarce (for longitudinal data) and labor-intensive. The data might also be skewed and incomplete. \n\n\n\nModeling complex human behaviors in real-world environments and body structures involves sophisticated dynamic factors. The computing power might not catch up with the needs of DT4H as well. \n\n\nThere is no sufficient business model to create a market in the health industry."
+  },
+  {
+    "objectID": "index.html#recommendations",
+    "href": "index.html#recommendations",
+    "title": "Digital Twins for Health",
+    "section": "Recommendations",
+    "text": "Recommendations\n\n\n\n\n\n\n\n\n\n\nGovernance structures: safeguard individuals with DTs, support data fair-use and compliance, and ensure accountability for the applications.\nData inter-operability standards: enable seamless data exchange and integration across different healthcare systems, devices, and platforms.\nDT implementation infrastructure: provide computational resources and infrastructure to handle the increasing volume, velocity, and complexity of data.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDT4H"
   }
 ]

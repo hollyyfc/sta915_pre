@@ -27,6 +27,8 @@ editor: visual
 
 ## More Than a Dummy Replica ...
 
+<div style="margin-top: 40px;"></div>
+
 ::: {style="font-size: 70%;"}
 > _A sophisticated representation designed to faithfully **mirror** the real-world system in real-time, **analyze** its behavior, and provide **predictive** insights using advanced simulation, machine learning and reasoning to help decision making_
 :::
@@ -44,7 +46,7 @@ editor: visual
 
 ## Digital Twins for Healthcare (DT4H)
 
-<div style="margin-top: 40px;"></div>
+<div style="margin-top: 50px;"></div>
 
 ::: columns
 ::: {.column width="40%"}
@@ -90,6 +92,7 @@ Out of 220 papers of DT4H, 85 were selected as representatives and 8 categories 
 
 ## Examples
 
+<div style="margin-top: 40px;"></div>
 
 ::: columns
 ::: {.column width="20%"}
@@ -111,9 +114,107 @@ Hospital Management
 :::
 
 ::: {.column width="80%"}
-some texts ...
+
+::: {style="font-size: 60%;"}
+The DT of anatomical structures can help surgeons simulate surgical approaches before the actual procedure to avoid adverse or fatal outcomes. For example, the DT of heart models (_HeartNavigator_) to assist with the TAVR implantation procedure. 
+
+<div style="margin-top: 40px;"></div>
+
+DTs can incorporated into the in-silico trials (IST: a digital clinical trial strategy through simulation and modeling) with simulated control and treatment arms and predicted outcomes of individual patients', enhancing the traditional clinical trials with better efficiency in patient recruitment and drug protocols.
+
+<div style="margin-top: 40px;"></div>
+
+DTs can be adopted to build a digital representation of healthcare data (electronic medical data), hospital environments, physical hospitals, human physiology, operational staff, and lab results, for various goals like workflow optimization and product design. 
+:::
 :::
 
 :::
+
+
+## More Examples
+
+![](images/tab1.png){fig-align="center"}
+
+# Challenges & Recommendations of DT4H
+
+## Challenges {auto-animate=true auto-animate-easing="ease-in-out"}
+
+::: columns
+::: {.column width="20%"}
+
+::: {.r-vstack}
+
+::: {data-id="box1" auto-animate-delay="0" style="background: #2780e3; width: 200px; height: 280px; margin: 10px; display: flex; align-items: center; justify-content: center; text-align: center; color: white; font-size: 0.8em;"}
+Data
+:::
+
+::: {data-id="box2" auto-animate-delay="0.1" style="background: #3fb618; width: 200px; height: 100px; margin: 20px; display: flex; align-items: center; justify-content: center; text-align: center; color: white; font-size: 0.6em;"}
+Modeling & Computing Infrastructure
+:::
+
+::: {data-id="box3" auto-animate-delay="0.2" style="background: #e83e8c; width: 200px; height: 100px; margin: 20px; display: flex; align-items: center; justify-content: center; text-align: center; color: white; font-size: 0.6em;"}
+Business Models
+:::
+
+:::
+:::
+
+::: {.column width="80%"}
+::: {style="font-size: 60%;"}
+::: {.fragment}
+- **Acquisition & Integration**: difficult to obtain accurate, real-time synchronization of data of various formats and systems; lack of standards and inter-operability in healthcare. 
+- **Privacy & Security**: accessing sensitive personal health information while safeguarding patient confidentiality for compliance is challenging. 
+- **Quality & Accuracy**: access to comprehensive and high-quality health data is often constrained, which is usually scarce (for longitudinal data) and labor-intensive. The data might also be skewed and incomplete.
+<br><br>
+:::
+::: {.fragment}
+Modeling complex human behaviors in real-world environments and body structures involves sophisticated dynamic factors. The computing power might not catch up with the needs of DT4H as well. 
+<br><br>
+:::
+::: {.fragment}
+There is no sufficient business model to create a market in the health industry. 
+:::
+:::
+:::
+
+:::
+
+
+## Recommendations {auto-animate=true auto-animate-easing="ease-in-out"}
+<div style="margin-top: 60px;"></div>
+::: columns
+::: {.column width="60%"}
+::: {style="font-size: 65%;"}
+<div style="margin-top: 40px;"></div>
+1. **Governance structures**: safeguard individuals with DTs, support data fair-use and compliance, and ensure accountability for the applications. 
+2. **Data inter-operability standards**: enable seamless data exchange and integration across different healthcare systems, devices, and platforms.
+3. **DT implementation infrastructure**: provide computational resources and infrastructure to handle the increasing volume, velocity, and complexity of data.
+:::
+:::
+
+::: {.column width="40%"}
+<div style="margin-top: 40px;"></div>
+::: {.r-stack}
+::: {data-id="box1" style="background: #2780e3; width: 350px; height: 350px; border-radius: 200px;"}
+:::
+
+::: {data-id="box2" style="background: #3fb618; width: 250px; height: 250px; border-radius: 200px;"}
+:::
+
+::: {data-id="box3" style="background: #e83e8c; width: 150px; height: 150px; border-radius: 200px; display: flex; align-items: center; justify-content: center; text-align: center; color: white; font-size: 1em;"}
+DT4H
+:::
+:::
+:::
+
+:::
+
+# Reference
+
+Katsoulakis, E., Wang, Q., Wu, H. et al. Digital twins for health: a scoping review. npj Digit. Med. 7, 77 (2024). [https://doi.org/10.1038/s41746-024-01073-0](https://doi.org/10.1038/s41746-024-01073-0)
+
+
+
+
 
 
